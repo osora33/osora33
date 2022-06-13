@@ -24,6 +24,8 @@
  - MySQL
  - Oracle
  - SQL Server
+ - Apache
+ - Tomcat
 <!--
 <h3 align='center'>Languages</h3>
 <p>
