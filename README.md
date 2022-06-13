@@ -41,7 +41,7 @@
  - [C] [K-LEAGUE 선수관리 프로그램](https://github.com/AellimSun/Green_team_Kleague_file_rw)
  - [C] [씨리얼공장 관리시스템](https://github.com/AellimSun/Cereal_ERP)
  - [C#] [보드게임 도미니언](https://github.com/AellimSun/pamatto)
- - [JAVA - Spring] [소상공인 쇼핑몰 상상마켓](https://github.com/itwillteam2/obosa)
+ - [JAVA] [소상공인 쇼핑몰 상상마켓](https://github.com/itwillteam2/obosa)
 
 
 
