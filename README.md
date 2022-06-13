@@ -22,6 +22,7 @@
  - Javascript
  - Jquery
  - PHP
+   - Laravel
  - HTML
  - CSS
  - MySQL
