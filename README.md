@@ -22,6 +22,8 @@
  - Javascript
  - Jquery
  - PHP
+ - HTML
+ - CSS
  - MySQL
  - Oracle
  - SQL Server
