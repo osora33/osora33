@@ -1,10 +1,9 @@
 <p align='center'>
   <a href="https://github.com/osora33">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=Study%20Repository&fontSize=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=O%20sora's%20Github&fontSize=50"/>
   </a>
 </p>
 
-### osora33's github
  - Name : O Sora
  - Email : osora33@gmail.com
 
