@@ -52,7 +52,7 @@
 -->
 
 ## Proejct List
- - [C#] [보드게임 도미니언](https://github.com/AellimSun/pamatto)  /  [[기술문서]](https://github.com/AellimSun/pamatto/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%EC%88%A0%EB%AC%B8%EC%84%9C.pdf)
+ - [C#] [보드게임 도미니언](https://github.com/AellimSun/pamatto)  /  [[기술문서]](https://github.com/AellimSun/pamatto/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%EC%88%A0%EB%AC%B8%EC%84%9C.pdf) / [[시연영상]] (https://www.youtube.com/watch?v=-uvtS9kKKVM)
  - [C] [씨리얼공장 관리시스템](https://github.com/AellimSun/Cereal_ERP)  /  [[보고서]](https://github.com/AellimSun/Cereal_ERP/blob/master/%ED%8C%8C%EB%A7%9B%EC%B2%B5%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EA%B3%A0%EC%84%9C.hwp)  /  [[시연영상]](https://www.youtube.com/watch?v=JrYfB3pXwXs)  /  [[발표영상]](https://www.youtube.com/watch?v=g2oniPQ3zrQ)
  - [C] [K-LEAGUE 선수관리 프로그램](https://github.com/AellimSun/Green_team_Kleague_file_rw)
  - [C#] [WPF프로젝트](https://github.com/osora33/studyWpf/tree/main/portpolio)
